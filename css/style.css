@@ -1,0 +1,35 @@
+body{
+    background-color: #222;
+    color: white;
+}
+
+/* ! celle */
+
+#grid .cell{
+    width: 80px;
+    height: 80px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+/* ! stili diversi in base al valore */
+
+#grid .number{
+    background-color: #2b8a3e;
+}
+
+#grid .fizz{
+    background-color: #e67700;
+}
+
+#grid .buzz{
+    background-color: #c92a2a;
+}
+
+#grid .fizzbuzz{
+    background-color: #5f3dc4;
+}
