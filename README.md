@@ -26,3 +26,14 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 Come abbiamo visto puoi  usare varie tecniche (style , className, classList)
  Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot fornito in consegna.
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
+
+
+<!-- ! scaletta -->
+
+1 Creo un ciclo for che va da 1 a 100
+2 Controllo se il numero è multiplo sia di 3 che di 5 (resto della divisione per 15 uguale a 0) e stampo "FizzBuzz"
+3 Altrimenti controllo se è multiplo di 3 e stampo "Fizz"
+4 Altrimenti controllo se è multiplo di 5 e stampo "Buzz"
+5 Altrimenti stampo il numero
+6 Bonus: recupero un contenitore in pagina e per ogni numero creo un elemento con il risultato
+7 Bonus: aggiungo una classe diversa all'elemento a seconda che sia numero, fizz, buzz o fizzbuzz
